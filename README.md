@@ -1,1 +1,1 @@
-# kerillosqodas.gethub.io
+# kerillosqodas.github.io
